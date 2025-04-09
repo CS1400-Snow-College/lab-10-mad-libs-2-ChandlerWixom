@@ -33,7 +33,9 @@ wordTypes.Add("adjective" , adjective);
     {
 
         Console.WriteLine(filename);
-        loadWords(Words(filename));
+        string finalStory = loadWords(Words(filename));
+        SaveingStory( $"generated.{filename}", finalStory);
+        Console.WriteLine(finalStory);
     
     
     }
@@ -48,13 +50,13 @@ string[] Words(string filename)
     return words;
 }
 
- void loadWords(string[] wordsList)
+ string loadWords(string[] wordsList)
 {
     string final = null;
     foreach (string w in wordsList)
     {
         
-        string word = w.Trim();
+        string word = w;
         if (word.Contains(':'))
         {
 
@@ -74,14 +76,17 @@ string[] Words(string filename)
         }
         
     }
-    Console.WriteLine(final);
-    Console.WriteLine();
+    return final;
+    
   }
 
 
 
 
-
+  void SaveingStory(string name, string text)
+  {
+    File.WriteAllText(name, text);
+  }
 
 string LookUpReplace(string type)
 {
