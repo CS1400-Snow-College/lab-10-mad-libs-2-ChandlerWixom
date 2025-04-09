@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab-10-mad-libs-2-ChandlerWixom": {
+      "commandName": "Project",
+      "commandLineArgs": "story1.txt"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\bin\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.exe
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\bin\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.deps.json
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\bin\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.runtimeconfig.json
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\bin\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.dll
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\bin\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.pdb
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.AssemblyInfoInputs.cache
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.AssemblyInfo.cs
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.csproj.CoreCompileInputs.cache
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.sourcelink.json
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.dll
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\refint\lab-10-mad-libs-2-ChandlerWixom.dll
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.pdb
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\lab-10-mad-libs-2-ChandlerWixom.genruntimeconfig.cache
+C:\Users\Frost\my-code-repo\lab-10-mad-libs-2-ChandlerWixom\obj\Debug\net9.0\ref\lab-10-mad-libs-2-ChandlerWixom.dll

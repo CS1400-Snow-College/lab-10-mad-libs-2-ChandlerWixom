@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|c:\\users\\frost\\my-code-repo\\lab-10-mad-libs-2-chandlerwixom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|c:\\users\\frost\\my-code-repo\\lab-10-mad-libs-2-chandlerwixom\\story1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|solutionrelative:story1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|c:\\users\\frost\\my-code-repo\\lab-10-mad-libs-2-chandlerwixom\\lab-10-mad-libs-2-chandlerwixom.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F3A01344-11FC-5A0D-9E6F-E65F4D591BDC}|lab-10-mad-libs-2-ChandlerWixom.csproj|solutionrelative:lab-10-mad-libs-2-chandlerwixom.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "story1.txt",
+              "DocumentMoniker": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\story1.txt",
+              "RelativeDocumentMoniker": "story1.txt",
+              "ToolTip": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\story1.txt",
+              "RelativeToolTip": "story1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T21:41:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab-10-mad-libs-2-ChandlerWixom",
+              "DocumentMoniker": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\lab-10-mad-libs-2-ChandlerWixom.csproj",
+              "RelativeDocumentMoniker": "lab-10-mad-libs-2-ChandlerWixom.csproj",
+              "ToolTip": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\lab-10-mad-libs-2-ChandlerWixom.csproj",
+              "RelativeToolTip": "lab-10-mad-libs-2-ChandlerWixom.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T21:32:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Frost\\my-code-repo\\lab-10-mad-libs-2-ChandlerWixom\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:27:26.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
