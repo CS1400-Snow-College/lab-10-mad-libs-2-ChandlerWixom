@@ -4,21 +4,21 @@ Random rand = new Random();
 
 
 // past tence verb
-List<string> tenceVerb = new List<string>() { "verbpast1", "verbpast2", "verbpast3", "verbpast4", "verbpast5", "verbpast6", "verbpast7", "verbpast8" };
+List<string> tenceVerb = new List<string>() { "ran", "swam", "drove", "ate", "walked", "cried", "climbed", "cleaned" };
 
 //plural noun
-List<string> pluralnoun = new List<string>() { "nouns1", "nouns2", "nouns3", "nouns4", "nouns5", "nouns6", "nouns7", "nouns8" };
+List<string> pluralnoun = new List<string>() { "dogs", "cars", "cats", "pools", "apples", "eggs", "mountains", "hills" };
 
 
 //verb
-List<string> verb = new List<string>() { "verb1", "verb2", "verb3", "verb4", "verb5", "verb6", "verb7", "verb8" };
+List<string> verb = new List<string>() { "eating", "cleaning", "scamming", "typing", "watering", "drinknig", "washing", "walking" };
 
 
 // nouns  pick 10
-List<string> noun = new List<string>() { "noun1", "noun2", "noun3", "noun4", "noun5", "noun6", "noun7", "noun8" };
+List<string> noun = new List<string>() { "house", "walls", "pool", "cat", "watermelon", "computer", "ice", "snow" };
 
 // adjective
-List<string> adjective = new List<string>() { "BALLS"};
+List<string> adjective = new List<string>() { "wet", "dirty", "slimy", "smelly", "blue", "hot", "yummy", "warm"};
 
 // Makes the dictionary of list
 Dictionary<string, List<string>> wordTypes = new Dictionary<string, List<string>>();
@@ -35,9 +35,7 @@ wordTypes.Add("adjective" , adjective);
         Console.WriteLine(filename);
         loadWords(Words(filename));
     
-    {
-        
-    }
+    
     }
 
     
@@ -62,7 +60,7 @@ string[] Words(string filename)
 
             //Console.WriteLine($"{word}");
             string[] type = word.Split("::");
-            Console.WriteLine(type[1]);
+           
             // run replacement thing
 
             final = final + type[0] + " ";
@@ -77,6 +75,7 @@ string[] Words(string filename)
         
     }
     Console.WriteLine(final);
+    Console.WriteLine();
   }
 
 
